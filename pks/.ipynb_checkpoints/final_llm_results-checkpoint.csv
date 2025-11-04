@@ -1,0 +1,62 @@
+﻿country,file,sheet,question,option,answer,llm_output
+pks,Bangladesh_HBQ.xlsx,boli khela,বলি খেলার উৎপত্তি কোথায়?,"ক) ভারত, খ) বাংলাদেশ, গ) নেপাল, ঘ) শ্রীলঙ্কা",খ) বাংলাদেশ,"You are a dataset quality checker for multiple-choice questions.
+
+Question: বলি খেলার উৎপত্তি কোথায়?
+Options: ক) ভারত, খ) বাংলাদেশ, গ) নেপাল, ঘ) শ্রীলঙ্কা
+Correct Answer: খ) বাংলাদেশ
+
+Evaluate:
+1. Is the question factually and logically correct?
+2. Is the provided answer correct?
+3. Does the question make sense as a valid MCQ?
+
+Respond in the format below (strictly):
+Score: 1 or 0
+Mistake: (describe issue or ""no mistake"")
+Improvement: (suggest fix or ""no correction needed"")
+
+     Score: 1
+     Mistake: The question does not specify which sport is being referred to, making it unclear whether ""বলি"" refers to badminton, volleyball, or another game.
+     Improvement: The question should be clarified to ensure it refers to a specific sport, such as ""বলি"" referring to badminton. Additionally, the options could be expanded to include other countries where badminton originated or was popularized. For example: ""বলি খেলার উৎপত্তি কোথায়? ক) ভারত, খ) বাংলাদেশ, গ) নেপাল, ঘ) শ্রীলঙ্কা, ঙ) ইন্দোনেশিয়া, চ) জাপান"" This would provide more context and ensure the question is clear and relevant. To further improve, the correct answer should be verified against historical facts about badminton's origins. No correction needed for the current options but the question needs clarification. Score: 1  
+Mistake:"
+pks,Bangladesh_HBQ.xlsx,boli khela,বলি খেলায় প্রাথমিক উদ্দেশ্য কী?,"ক) দৌড়, খ) কুস্তি, গ) বল নিক্ষেপ, ঘ) লাথি মারা",খ) কুস্তি,"You are a dataset quality checker for multiple-choice questions.
+
+Question: বলি খেলায় প্রাথমিক উদ্দেশ্য কী?
+Options: ক) দৌড়, খ) কুস্তি, গ) বল নিক্ষেপ, ঘ) লাথি মারা
+Correct Answer: খ) কুস্তি
+
+Evaluate:
+1. Is the question factually and logically correct?
+2. Is the provided answer correct?
+3. Does the question make sense as a valid MCQ?
+
+Respond in the format below (strictly):
+Score: 1 or 0
+Mistake: (describe issue or ""no mistake"")
+Improvement: (suggest fix or ""no correction needed"")
+
+     Score: 0
+     Mistake: The question does not specify which sport is being referred to, making it ambiguous whether ""বল"" refers to kabaddi or another game.
+     Improvement: The question should be clarified to avoid ambiguity, e.g., ""বল"" খেলায় প্রাথমিক উদ্দেশ্য কী? এবং কোন খেলায় বল খেলা হয়। (What is the primary goal of the game called 'বল'? And which game does 'বল' play.) This would ensure that the question is unambiguous and directly related to the sport of kabaddi. To further improve, the correct answer should also be specified in the question itself, e.g., ""বল"" খেলায় প্রাথমিক উদ্দেশ্য কী? এবং কোন খেলায় বল খেলা হয়। সঠিক"
+pks,Bangladesh_HBQ.xlsx,boli khela,ঐতিহ্যবাহীভাবে বলি খেলা কখন খেলা হয়?,"ক) শীতকাল, খ) গ্রীষ্মকাল, গ) উৎসবের সময়, ঘ) বসন্তকাল",গ) উৎসবের সময়,"You are a dataset quality checker for multiple-choice questions.
+
+Question: ঐতিহ্যবাহীভাবে বলি খেলা কখন খেলা হয়?
+Options: ক) শীতকাল, খ) গ্রীষ্মকাল, গ) উৎসবের সময়, ঘ) বসন্তকাল
+Correct Answer: গ) উৎসবের সময়
+
+Evaluate:
+1. Is the question factually and logically correct?
+2. Is the provided answer correct?
+3. Does the question make sense as a valid MCQ?
+
+Respond in the format below (strictly):
+Score: 1 or 0
+Mistake: (describe issue or ""no mistake"")
+Improvement: (suggest fix or ""no correction needed"")
+
+     Score: 1
+     Mistake: The question does not specify which type of game is being referred to, making it ambiguous whether it could be any game or a specific one.
+     Improvement: The question should clarify if it's referring to a traditional game or a specific sport/event. For example, ""এই খেলাটি ঐতিহ্যবাহীভাবে কখন খেলা হয়?"" would make it clearer. Additionally, the options could be more specific to ensure the correct answer is clear. No correction needed for the provided answer as it stands. To improve, the question should be refined. To address the ambiguity, the question should specify the type of game being referred to, ensuring that the provided answer aligns with a well-defined context. Thus, the refinement would involve clarifying the scope of the question and possibly adjusting the options to better fit the context. The current score reflects the need for such clarity but no correction is needed for the given answer. Therefore, the final score remains 1. The improvement suggestion is to enhance the specificity of the question and options. Hence, the final response is:
+
+     Score: 1
+     Mistake:"
